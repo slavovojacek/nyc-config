@@ -1,6 +1,6 @@
 {
   "name": "@slavovojacek/nyc-config",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Shared nyc config used in my projects",
   "main": "index.json",
   "files": [
