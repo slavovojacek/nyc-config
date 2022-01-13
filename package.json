@@ -1,0 +1,35 @@
+{
+  "name": "@slavovojacek/nyc-config",
+  "version": "0.0.0",
+  "description": "Shared nyc config used in my projects",
+  "main": "index.json",
+  "files": [
+    "index.json"
+  ],
+  "engines": {
+    "node": ">=14",
+    "npm": ">=8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavovojacek/nyc-config.git"
+  },
+  "keywords": [
+    "nyc",
+    "config",
+    "configuration"
+  ],
+  "author": {
+    "name": "Slavo Vojacek",
+    "email": "public@slavovojacek.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavovojacek/nyc-config/issues"
+  },
+  "homepage": "https://github.com/slavovojacek/nyc-config#readme",
+  "peerDependencies": {
+    "@istanbuljs/nyc-config-typescript": "1.x",
+    "nyc": "15.x"
+  }
+}
